@@ -1,0 +1,27 @@
+{
+  "name": "renderable-html",
+  "version": "1.0.3",
+  "description": "A tiny HTML file cache module, based on renderable & htmlize",
+  "scripts": {
+    "start": "node --harmony_proxies index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lcfvs/renderable-html.git"
+  },
+  "keywords": [],
+  "author": "Lcf.vs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lcfvs/renderable-html/issues"
+  },
+  "homepage": "https://github.com/Lcfvs/renderable-html#readme",
+  "dependencies": {
+    "renderable": "^1.0.0",
+    "sizzlify": "^1.0.0"
+  },
+  "engines": {
+    "node": "5.x.x"
+  }
+}

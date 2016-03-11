@@ -1,6 +1,6 @@
 {
   "name": "renderable-html",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "A tiny HTML file cache module, based on renderable & htmlize",
   "scripts": {
     "start": "node --harmony_proxies index.js",

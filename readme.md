@@ -1,11 +1,12 @@
 # renderable-html
+
+[![npm](https://img.shields.io/npm/v/renderable-html.svg?style=plastic)]()
+[![Downloads](https://img.shields.io/npm/dt/renderable-html.svg?style=plastic)]()
+
 A tiny html file cache module, based on renderable & htmlize, under the MIT licence
 
 ## Install
 `npm install renderable-html`
-
-## Requirements
-Since the ES2015 Proxy isn't actually supported, this module requires to start your app with a `--harmony_proxies` flag
 
 ## Usage
 ```JS
